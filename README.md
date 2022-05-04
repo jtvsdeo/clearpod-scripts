@@ -1,5 +1,5 @@
 
-WHAT THIS DOES:
+CODE EXPLAINED:
 	This script connects to Cisco Switches/Routers and erases vlan configs, running-configs and reloads them.
 
 BACKGROUND INFO:
